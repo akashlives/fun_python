@@ -27,6 +27,7 @@ ipython_config.py
 .idea/**/aws.xml
 
 # Generated files
+.idea/
 .idea/**/contentModel.xml
 
 # Sensitive or high-churn files
